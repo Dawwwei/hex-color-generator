@@ -1,0 +1,27 @@
+* {
+    font-family: "PlaywriteNGModern";
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#container {
+    background-color: white;
+    width: 50%;
+    height: auto;
+    border-radius: 15px;
+    text-align: center;
+    padding: 15px;
+    border: 2px solid black;
+}
+
+
+button {
+    border: 1px solid black;
+    border-radius: 5px;
+}
